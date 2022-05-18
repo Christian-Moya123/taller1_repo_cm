@@ -6,6 +6,8 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		System.out.println("Mi primer proyecto Java en GitHub");
+		
+		System.out.println("Mi segundo comentario");
 
 	}
 
